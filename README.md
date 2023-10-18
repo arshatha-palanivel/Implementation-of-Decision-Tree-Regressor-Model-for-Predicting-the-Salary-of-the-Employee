@@ -62,31 +62,38 @@ dt.predict([[5,6]])
 ## Output:
 Initial Dataset:
 
-![](./001.png)
+![001](https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118682484/8223a3a9-9b4e-4d9a-a746-3ea2f4b266fd)
+
 
 Data Info:
 
-![](./002.png)
+![002](https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118682484/1b58353a-4dc8-401c-87b2-9d9be46e9de6)
+
 
 Optimization of null values:
 
-![](./003.png)
+![003](https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118682484/cc706ab0-efb8-49b7-b297-f1847faaf3cb)
+
 
 Converting string literals to numerical values using label encoder:
 
-![](./004.png)
+![004](https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118682484/1eb2aca3-221b-41bf-a186-7e1b0a08e38e)
+
 
 Mean Squared Error:
 
-![](./005.png)
+![005](https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118682484/0043e930-045b-4786-bd87-ccf92c1f8b2a)
+
 
 R2 (Variance):
 
-![](./006.png)
+![006](https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118682484/3613efcd-59a3-49b5-ac2f-9c8a5a43de39)
+
 
 Perdicition:
 
-![](./007.png)
+![007](https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118682484/0556f394-64c1-4fb3-8a76-e9f180144e28)
+
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
